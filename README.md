@@ -37,10 +37,9 @@ ___
 </p>
 
 ------
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" align="center" alt="Mario Game" width="600" />
-
-
+<center>
+ img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" align="center" alt="Mario Game" width="600" />
+</center>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
