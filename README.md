@@ -37,7 +37,8 @@ ___
 </p>
 
 ------
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" align="center" alt="Mario Game" width="600" />
 
 
 <!--START_SECTION:waka-->
@@ -53,7 +54,7 @@ ___
 </p>
   
 <p align="center">
-  <a href="https://github.com/NearNecron"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Veanyxz&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/NearNecron"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NearNecron&theme=tokyonight&layout=compact" /></a>
 </p>
   
 <p align="center">
@@ -62,9 +63,9 @@ ___
     
 
 <p align="center">
-<a href="https://www.instagram.com/_veansh_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="veanyxz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://api.whatsapp.com/send?phone=628983583288&text=Assalamualaikum+Bang" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://www.instagram.com/hi.imhafz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="hafz.xyz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://api.whatsapp.com/send?phone=6282126046864&text=Assalamualaikum+Bang" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ___
