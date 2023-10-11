@@ -37,9 +37,9 @@ ___
 </p>
 
 ------
-<center>
- img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" align="center" alt="Mario Game" width="600" />
-</center>
+<p align="center">
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" align="center" alt="Mario Game" width="600" />
+</p>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
@@ -49,7 +49,7 @@ ___
 </p>
 
 <p align="center">
-  <a href="https://github.com/NearNecron"><img src="https://github-readme-streak-stats.herokuapp.com?user=Veanyxz&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/NearNecron"><img src="https://github-readme-streak-stats.herokuapp.com?user=NearNecron&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
   
 <p align="center">
