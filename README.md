@@ -1,34 +1,77 @@
+
 <h1 align="center">
-  Nama Proyek
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+World!+I+am+Hafz;I+love+building+things+that+live+on+the+internet">
+  </a>
 </h1>
 
-<p align="center">
-  <img src="https://your-image-url.com/animated.gif" alt="Animasi Proyek">
-</p>
-
-**Deskripsi Proyek:** (Tambahkan deskripsi singkat tentang proyek Anda di sini.)
-
-<!-- Deskripsi proyek lainnya -->
-
-## Demo
-
-(Sertakan tautan ke demo proyek Anda jika ada.)
-
-## Cara Menggunakan
-
-(Tunjukkan cara penggunaan proyek ini.)
-
-<!-- Instruksi lainnya -->
 
 <p align="center">
-  <a href="https://github.com/username/nama-proyek">
-    <img src="https://img.shields.io/github/license/username/nama-proyek" alt="Lisensi">
-  </a>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=ubuntu" /> <br>
 </p>
-Pada contoh di atas, Anda perlu mengganti https://your-image-url.com/animated.gif dengan URL gambar animasi yang ingin Anda gunakan. Gambar animasi ini dapat berupa GIF atau format lain yang mendukung animasi.
 
-Pastikan untuk menempatkan elemen HTML ini di dalam README Anda. Anda juga dapat menyesuaikan tata letak dan gaya sesuai kebutuhan Anda. Selain itu, Anda dapat menambahkan lebih banyak elemen HTML dan CSS untuk animasi yang lebih rumit jika diperlukan.
+___
+```
+       You Visitors To:
+```
+<p align="center">
+<img align="center" alt="count" src="https://count.getloli.com/get/@:nearnecron?theme=rule34">
+</p>
 
-Jangan lupa untuk menyertakan deskripsi proyek, demo jika ada, cara penggunaan, dan informasi lainnya seperti yang dijelaskan dalam contoh README sebelumnya. Animasi dapat membuat README Anda lebih menarik dan informatif, tetapi pastikan untuk tidak berlebihan seh
+<p align='center'>
+<a href="https://instagram.com/hi.imhafz"><img height="30" src="https://storage.caliph.my.id/img/instagram.svg"></a>&nbsp;&nbsp;
+</p>
 
 
+___
+
+### Spotify Playing 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
+
+### Repo Stats 🔭
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=veanyxz&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=scraper&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=json&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=veanyxz&repo=vean-uploader&theme=highcontrast)
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+   
+   <p align="center">
+  <a href="https://github.com/NearNecron"><img src="https://github-readme-stats.vercel.app/api?username=Veanyxz&theme=tokyonight&show_icons=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NearNecron"><img src="https://github-readme-streak-stats.herokuapp.com?user=Veanyxz&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/NearNecron"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Veanyxz&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/NearNecron"><img src="https://github-profile-trophy.vercel.app/?username=Veanyxz&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p>
+    
+
+<p align="center">
+<a href="https://www.instagram.com/_veansh_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="veanyxz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://api.whatsapp.com/send?phone=628983583288&text=Assalamualaikum+Bang" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+</p>
+
+___
